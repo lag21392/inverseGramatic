@@ -1,0 +1,3 @@
+print('Hgryetyh gg tet')
+for i int range:
+ print("f")
